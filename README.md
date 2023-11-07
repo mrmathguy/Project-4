@@ -7,7 +7,8 @@ Abiodun Oseni
 Financial Analysis of 4 years of stock data
 
 # Dataset: 
-Nasdaq 100
+Nasdaq 100 
+
 S&P 500
 
 # Overview
